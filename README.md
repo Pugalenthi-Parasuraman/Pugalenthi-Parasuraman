@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Studying in college, 3rd year of engineering.<br>💻 Frontend Developer with a keen interest in web technologies.<br>🌱 I’m currently learning : HTML5️⃣, CSS, JavaScript....<br>📷 Enjoy photo and video editing as creative outlets.<br>🔗 Let's connect : LinkedIn - Pugal Pugalenthi<br>🚀 Building projects and contributing to open source.<br>🤝 I’m looking for help with
+🎓 Studying in college, 3rd year of engineering.<br>💻 Frontend Developer with a keen interest in web technologies.<br>🌱 I’m currently learning : HTML5️⃣, CSS, JavaScript....<br>📷 Enjoy photo and video editing as creative outlets.<br>🚀 Building projects and contributing to open source.<br>🤝 I’m looking for help with
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pugalenthi-Parasuraman&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pugalenthi-Parasuraman&icon=2&color=0)](https://visitcount.itsvg.in)
