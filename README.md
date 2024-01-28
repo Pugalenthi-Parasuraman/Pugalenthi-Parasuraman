@@ -21,6 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pugalenthi-Parasuraman&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+Friends!🙏" />
+</h1><br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Pugalenthi-Parasuraman&icon=2&color=0)](https://visitcount.itsvg.in)
 
