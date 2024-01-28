@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1
 # 💫 Welcome Friends:
 🎓 I'm Studying in college, 3rd year of engineering.<br>💻 Frontend Developer with a keen interest in web technologies.<br>🌱 I’m currently learning : HTML5️⃣, CSS, JavaScript....<br>📷 Enjoy photo and video editing as creative outlets.<br>🚀 Building projects and contributing to open source.<br>🤝 I’m looking for help with
 
