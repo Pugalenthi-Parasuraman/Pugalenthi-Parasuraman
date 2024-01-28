@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pugalenthi-Parasuraman.Pugalenthi-Parasuraman" /><h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pugal!;" />
 </h1>
-
 <h1 align="centre"><img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></h1>
-<br><br>
+<br>
 
 
 ## 💫 Welcome Friends:
