@@ -3,8 +3,7 @@
 </h1><br>
 
 ## 💫 Welcome Friends:
-🎓 I'm Studying in college, 3rd year of engineering.<br>💻 Frontend Developer with a keen interest in web technologies.<br>🌱 I’m currently learning : HTML5️⃣, CSS, JavaScript....<br>📷 Enjoy photo and video editing as creative outlets.<br>🚀 Building projects and contributing to open source.<br>🤝 I’m looking for help with
-
+💻 I'm Frontend Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pugal-pugalenthi-874624264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PUGALENTHI_123) 
