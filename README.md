@@ -4,7 +4,6 @@
 <h1 align="centre"><img align="right" alt="Hacking" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></h1>
 <br>
 
-
 ## 💫 Welcome Friends:
 💻 I'm Frontend Developer
 
@@ -12,7 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pugal-pugalenthi-874624264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PUGALENTHI_123) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pugalenthi-Parasuraman&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pugalenthi-Parasuraman&theme=radical&hide_border=false)<br/>
