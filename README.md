@@ -8,7 +8,7 @@
 💻 I'm Frontend Developer
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pugal-pugalenthi-874624264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PUGALENTHI_123) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pugalenthi-p) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PUGALENTHI_123) 
 
 # 💻 Tech Stack:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
