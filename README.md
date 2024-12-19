@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- 💬 Ask me about **Frontend, Figma Tool**
 
 - 📫 How to reach me **masstamizhan2003@gmail.com**
 
